@@ -71,4 +71,7 @@ dependencies {
     // Testing Navigation
     androidTestImplementation(libs.androidx.navigation.testing)
     implementation(libs.accompanist.systemuicontroller)
+
+    // animated nav bar
+    implementation(libs.animated.navigation.bar)
 }
